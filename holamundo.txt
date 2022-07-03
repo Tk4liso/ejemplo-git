@@ -2,3 +2,7 @@ print("saca la mota")
 def funcionxd (a):
     a=a+a
     print(a)
+
+def funcion2 (b):
+    b-5
+    print(b)
