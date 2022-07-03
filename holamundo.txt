@@ -6,3 +6,6 @@ def funcionxd (a):
 def funcion2 (b):
     b-5
     print(b)
+
+#Este es el cambio de Erickkkk::DDDD
+list2 = [i for 2*2]
