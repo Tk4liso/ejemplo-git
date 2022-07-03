@@ -1,4 +1,4 @@
 print("saca la mota")
 def funcionxd (a):
-    a=a*a
+    a=a+a
     print(a)
